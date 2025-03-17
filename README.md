@@ -293,6 +293,8 @@ clockwise.xml
 ```
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/abc38543-37c6-4baa-9d34-189298d8e4cc)
+![image](https://github.com/user-attachments/assets/8422ce81-6c9a-4831-8791-8f0010eccbd3)
+
 
 
 
